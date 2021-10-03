@@ -1,5 +1,5 @@
 - 👋 Yo, I’m KH-Lai
-- 👀 I’m interested in Cybersecurity specifically Computer Forensics
+- 👀 I’m interested in Computer Forensics
 - 🌱 I’m currently learning and getting started on CTF
 - 📫 How to reach me: Twitter
 
