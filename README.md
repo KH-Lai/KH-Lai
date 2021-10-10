@@ -1,6 +1,6 @@
-- 👋 Yo, I’m KH Lai
-- 👀 I’m interested in Computer Forensics
-- 🌱 I’m currently learning and getting started on CTF
+- 👋 Yo, I'm KH Lai
+- 👀 I'm interested in Computer Forensics
+- 🌱 I'm studying and still a newbie
 - 📫 How to reach me: Twitter
 
 <!---
