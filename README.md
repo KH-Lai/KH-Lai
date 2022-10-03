@@ -1,6 +1,6 @@
 - 👋 Yo, I'm KH Lai
-- 👀 I'm interested in Computer Forensics
-- 🌱 I'm studying and still a newbie
+- 👀 I'm interested in becoming a Blue Teamer
+- 🌱 Passionate in everything related to cybersecurity.
 - 📫 How to reach me: Twitter
 
 <!---
