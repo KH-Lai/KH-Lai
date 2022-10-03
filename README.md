@@ -1,6 +1,7 @@
 - 👋 Yo, I'm KH Lai
 - 👀 I'm interested in becoming a Blue Teamer
-- 🌱 Passionate in everything related to cybersecurity.
+- 🌱 Passionate in everything related to cybersecurity
+- 💻 Unpopular Opinion: Parrot > Kali
 - 📫 How to reach me: Twitter
 
 <!---
